@@ -1,0 +1,8 @@
+[project]
+name = "material-chat"
+version = "1.0.0"
+description = "Material Chat App"
+dependencies = [
+    "flet",
+    "requests"
+]
